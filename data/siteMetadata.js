@@ -2,8 +2,8 @@
 const siteMetadata = {
   title: 'Carters Blog',
   author: 'Carter S',
-  headerTitle: 'Aspiring Security Engineer',
-  description: 'A personal blog about my experiences and beliefs in tech',
+  headerTitle: 'Carters Blog',
+  description: 'A personal blog about my experiences and beliefs in the cyber and software world.',
   language: 'en-us',
   theme: 'system', // system, dark or light
   siteUrl: 'https://carters-blog.vercel.app/',
@@ -13,15 +13,7 @@ const siteMetadata = {
   mastodon: 'https://mastodon.social/@mastodonuser',
   email: 'speers.carter@gmail.com',
   github: 'https://github.com/Carter907',
-  x: 'https://twitter.com/x',
-  // twitter: 'https://twitter.com/Twitter',
-  facebook: 'https://facebook.com',
-  youtube: 'https://youtube.com',
   linkedin: 'https://www.linkedin.com/speerscarter',
-  threads: 'https://www.threads.net',
-  instagram: 'https://www.instagram.com',
-  medium: 'https://medium.com',
-  bluesky: 'https://bsky.app/',
   locale: 'en-US',
   // set to true if you want a navbar fixed to the top
   stickyNav: false,
