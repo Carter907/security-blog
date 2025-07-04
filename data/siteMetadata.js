@@ -10,10 +10,9 @@ const siteMetadata = {
   siteRepo: 'https://github.com/Carter907/se-blog',
   siteLogo: `${process.env.BASE_PATH || ''}/static/images/logo.png`,
   socialBanner: `${process.env.BASE_PATH || ''}/static/images/twitter-card.png`,
-  mastodon: 'https://mastodon.social/@mastodonuser',
   email: 'speers.carter@gmail.com',
   github: 'https://github.com/Carter907',
-  linkedin: 'https://www.linkedin.com/speerscarter',
+  linkedin: 'https://www.linkedin.com/in/speerscarter',
   locale: 'en-US',
   // set to true if you want a navbar fixed to the top
   stickyNav: false,
