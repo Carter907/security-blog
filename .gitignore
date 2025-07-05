@@ -8,6 +8,8 @@
 !/.yarn/releases
 !/.yarn/plugins
 !/.yarn/sdks
+.idea/
+yarn.lock
 
 # testing
 /coverage

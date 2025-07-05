@@ -7,20 +7,18 @@ interface Project {
 
 const projectsData: Project[] = [
   {
-    title: 'A Search Engine',
-    description: `What if you could look up any information in the world? Webpages, images, videos
-    and more. Google has many features to help you find exactly what you're looking
-    for.`,
-    imgSrc: '/static/images/google.png',
-    href: 'https://www.google.com',
+    title: 'A Keylogger made in C++',
+    description: `Ever wanted to keep track of your key strokes on Linux? Well, now you can with
+    this simple keylogger made in C++. It requires sudo privileges to run, and is very accurate and fast.`,
+    imgSrc: '/static/images/key.png',
+    href: 'https://github.com/Carter907/keylogger',
   },
   {
-    title: 'The Time Machine',
-    description: `Imagine being able to travel back in time or to the future. Simple turn the knob
-    to the desired date and press "Go". No more worrying about lost keys or
-    forgotten headphones with this simple yet affordable solution.`,
-    imgSrc: '/static/images/time-machine.jpg',
-    href: '/blog/the-time-machine',
+    title: 'A Java Build Tool',
+    description: `Are you sick of using Maven or Gradle? Well, me too-- I made this simple build tool for Java projects that allows you to
+    build, run, and package your java projects with ease.`,
+    imgSrc: '/static/images/java-build-tool.png',
+    href: 'https://github.com/Carter907/streamline',
   },
 ]
 
