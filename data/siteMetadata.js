@@ -1,9 +1,10 @@
 /** @type {import("pliny/config").PlinyConfig } */
 const siteMetadata = {
-  title: 'Carters Blog',
+  title: "Carter's Blog",
   author: 'Carter S',
-  headerTitle: 'Carters Blog',
-  description: 'A personal blog about my experiences and beliefs in the cyber and software world.',
+  headerTitle: "Carter's Blog",
+  description:
+    'A personal blog about my experiences and knowledge in the cyber and software world.',
   language: 'en-us',
   theme: 'system', // system, dark or light
   siteUrl: 'https://carters-blog.vercel.app/',
