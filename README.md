@@ -1,25 +1,13 @@
 # Carter's Blog
 
-A personal blog about my journey in software development.
+A personal blog featuring all kinds of stuff about my work
 
 [![Live Site](https://img.shields.io/badge/Live-carters--blog.vercel.app-blue)](https://carters-blog.vercel.app/)
-[![GitHub](https://img.shields.io/badge/GitHub-Carter907-lightgrey)](https://github.com/Carter907)
 
-## About This Project
+## Goals
 
-This blog documents my experiences, insights, and beliefs as a software engineer. Here, I share my learning journey, technical projects, and reflections on the ever-evolving landscape of technology.
+Make a personal space to share my accomplishments.
 
-## What You'll Find Here
-
-- **Career Journey**: My journey as a software engineer and what inspires me.
-- **Technical Projects**: Write-ups on personal projects including build systems, web applications, and more.
-- **Hackathon Experiences**: Lessons learned and stories from hackathons and competitive programming.
-- **Programming Perspectives**: My views on software development, AI's impact on the field, and best practices.
-
-## Project Goals
-
-1. **Document Learning**: Create a living record of my journey in software development and share knowledge with others on similar paths.
-3. **Share Projects**: Showcase personal projects and contribute to the open-source community.
 
 ## Technical Stack
 
@@ -44,7 +32,7 @@ yarn dev
 
 Visit [http://localhost:3000](http://localhost:3000) to see the blog in action.
 
-## Built With
+## Template 
 
 This blog is based on the [Tailwind Next.js Starter Blog](https://github.com/timlrx/tailwind-nextjs-starter-blog) template, customized for my personal use.
 
